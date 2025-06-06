@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlappyBirdConsole", "Flappy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlappyBirdNET", "FlappyBirdNET\FlappyBirdNET.csproj", "{6266D126-1661-4E6B-9247-9D15CBE5F147}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlappyBirdWTH", "FlappyBirdWTH\FlappyBirdWTH.csproj", "{F7CB227B-8D60-47BD-A64D-B0C417664972}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6266D126-1661-4E6B-9247-9D15CBE5F147}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6266D126-1661-4E6B-9247-9D15CBE5F147}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6266D126-1661-4E6B-9247-9D15CBE5F147}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7CB227B-8D60-47BD-A64D-B0C417664972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7CB227B-8D60-47BD-A64D-B0C417664972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7CB227B-8D60-47BD-A64D-B0C417664972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7CB227B-8D60-47BD-A64D-B0C417664972}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
